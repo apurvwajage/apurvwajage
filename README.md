@@ -1,146 +1,220 @@
-# 👋 Hi, I’m Apurva Wajage
+<div align="center">
 
-🎓 **Computer Engineering | AI & Backend Developer | Research-Oriented Engineer**  
-📍 Pune, India
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Apurva%20Wajage&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Systems%20Thinker&descSize=18&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
-I’m a **Computer Engineering undergraduate** with strong hands-on experience in **AI-powered systems, backend development, data engineering, and cloud deployment**. I enjoy building **end-to-end, production-oriented systems** that combine machine learning, clean backend architecture, and real-world data.
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+systems+that+scale+%F0%9F%9A%80;AI+%2B+Backend+%2B+Real-world+data;Final+Year+%40+AISSMS+%7C+Pune%2C+India;Open+to+roles%2C+research+%26+collabs" alt="Typing SVG" />
+</a>
 
-Currently focused on **Artificial Intelligence, Machine Learning, and scalable backend systems**, while actively preparing for **research-focused postgraduate programs and high-impact engineering roles**.
+<br/>
+
+<!-- Badges Row -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230f0c29.svg?style=for-the-badge&logo=firefox&logoColor=a78bfa)](https://apurvwajage.github.io/Portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apurvwajage)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/apurvwajage)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/apurvwajage)
+[![Email](https://img.shields.io/badge/Email-apurvawajage%40gmail.com-a78bfa?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apurvawajage@gmail.com)
+
+</div>
 
 ---
 
-## 🚀 What I Work On
+## ⚡ Who Am I?
 
-- 🤖 AI-driven platforms (ML, sentiment analysis, XAI)
-- ⚙️ Backend systems & REST APIs
-- 📊 Data pipelines & automation
-- ☁️ Cloud-hosted applications
-- 🧠 Research-oriented problem solving
+```python
+class ApurvaWajage:
+    def __init__(self):
+        self.role       = "Backend Engineer & AI Builder"
+        self.degree     = "B.Tech Computer Engineering @ AISSMS, Pune (CGPA: 8.38)"
+        self.currently  = ["GenAI Analytics Platform @ Smart Analytica",
+                           "AI Paper Trading System (Final Year Project)"]
+        self.focus      = ["Scalable Backend Systems", "AI/ML Pipelines",
+                           "Research & XAI", "Cloud Architecture"]
+        self.open_to    = ["Full-time Roles", "Internships", "Research Collabs"]
+        self.motto      = "Build systems that scale. Build ideas that last."
+
+    def contact(self):
+        return "apurvawajage@gmail.com"
+```
 
 ---
 
-## 🧠 Technical Skillset
+## 🛠️ Tech Arsenal
 
-### 💻 Programming Languages
-- Python
-- C / C++
-- JavaScript
-- HTML / CSS
+<div align="center">
 
-### 🌐 Backend & Full-Stack
-- Django
-- Node.js
-- Express.js
-- REST APIs
-- ETL Pipelines
-- Database Design
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🌐 Backend & Frameworks
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ### 🗄️ Databases
-- PostgreSQL (Supabase)
-- MySQL
-- MongoDB
-
-### 🤖 AI / Machine Learning
-- Machine Learning
-- Sentiment Analysis (Financial News)
-- Feature Engineering
-- Model Evaluation
-- Explainable AI (XAI – planned integration)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 
 ### ☁️ Cloud & DevOps
-- AWS EC2
-- AWS S3
-- Cloud Deployment (Render)
-- Linux
-- Git & GitHub
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🧩 Core CS Fundamentals
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Operating Systems
-- DBMS
+### 🤖 AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
----
-
-## 🧪 Featured Projects
-
-### 📈 AI-Based Paper Trading System *(Final Year Project | In Progress)*
-**Tech:** Node.js, Express.js, MongoDB, TensorFlow, Deep Learning  
-
-- Designed an AI-powered **paper trading platform** with real-time market data integration (Upstox API, <1s latency)
-- Implemented a **trade journal analyzer** to log, evaluate, and categorize simulated trades
-- Designed sentiment analysis pipeline for financial news (target accuracy ~80%)
-- Planned **Explainable AI (XAI)** module to label trades as *Good / Risky / Bad* with interpretable insights
+</div>
 
 ---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 AI-Based Paper Trading System
+> *Final Year Project — In Progress*
+
+**Stack:** `Node.js` `Express.js` `MongoDB` `TensorFlow` `Deep Learning`
+
+- 🔄 Real-time market data ingestion via Upstox API with **<1s latency**, supporting **100+ trades/day**
+- 📓 Trade journal system with structured storage, reducing manual tracking by **40%+**
+- 🧠 Rule-based + sentiment analysis pipeline for trade classification with actionable insights
+- 🔬 **XAI module planned** — label trades as *Good / Risky / Bad* with human-interpretable explanations
+
+</td>
+<td width="50%" valign="top">
 
 ### 💰 Expense Tracker System
-**Tech:** Django, Python, PostgreSQL, PyMuPDF, Supabase, Render  
+> *Cloud-Deployed Full Stack App*
 
-- Built a full-stack expense tracker with **bank statement PDF parsing**
-- Automated transaction extraction, reducing manual input by **80%+**
-- Added analytics & filtering to improve financial insights
-- Deployed on cloud for **24/7 access**
+**Stack:** `Django` `Python` `PostgreSQL` `PyMuPDF` `Supabase` `Render`
 
----
+- 📄 Bank statement **PDF parser** that auto-extracts transactions — reduces manual input by **80%+**
+- 🗃️ Relational schema design for efficient transaction record management
+- 📊 Backend endpoints for aggregated spending summaries and financial trend generation
+- ☁️ Live 24/7 on cloud via Render
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### ₿ Crypto Price Tracking & Logging System
-**Tech:** Python, REST APIs, CSV, JSON  
+> *Automated Data Pipeline*
 
-- Built a real-time crypto tracking system using CoinGecko API
-- Logged prices of 10+ cryptocurrencies every 15 minutes
-- Generated 500+ daily records with timestamped logs
-- Modular architecture for scalability and maintainability
+**Stack:** `Python` `REST APIs` `CoinGecko API` `CSV` `JSON`
 
----
+- ⏱️ Polls 10+ cryptocurrencies **every 15 minutes**, generating **500+ daily timestamped records**
+- 🔌 Modular architecture designed for scalability and easy crypto-pair extension
+- 📁 Auto-structured logs for downstream analytics
 
-## 🏢 Experience
+</td>
+<td width="50%" valign="top">
 
-### 💼 Software Engineer Intern — Accenture
-**May 2025 – July 2025**
+### 🔐 RFID Smart Entry & Monitoring System
+> *IoT Access Control*
 
-- Automated file organization using Python, eliminating **100% manual sorting**
-- Designed JSON correction pipelines, reducing processing errors by **90%+**
-- Built scheduled scripts to process data, upload to AWS S3, and log anomalies
-- Presented the solution during internship review with strong positive feedback
+**Stack:** `Arduino` `Python` `RFID` `Ultrasonic & IR Sensors`
 
----
+- 🚪 RFID-based secure entry management with unauthorized movement detection
+- 📡 Serial communication bridge between Arduino hardware and a Python validation service
+- 🪵 Event logging for all access attempts and anomalies
 
-## 🏆 Achievements & Activities
-
-- 🥇 **Top 5 finish (twice)** – Smart India Hackathon internal rounds (80+ teams)
-- 🤝 Core organizer – **IOIT MUN**, managed logistics for 100+ participants
-- 📊 JEE Advanced 2022: **4674 General EWS Rank**
-- 📈 MHT-CET 2022: **96.49 percentile**
+</td>
+</tr>
+</table>
 
 ---
 
-## 📚 Currently Focusing On
+## 💼 Experience
 
-- Advanced Machine Learning & Deep Learning
-- System Design & Backend Architecture
-- Research & AI interpretability
-- DSA (LeetCode / Codeforces)
-
----
-
-## 🤝 Open To
-
-- AI / Backend Internships & Roles
-- Research collaborations
-- Open-source contributions
-- Technical discussions & mentorship
-
-> I enjoy helping others with meaningful projects — feel free to reach out.
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  🏢  Engineer Trainee Intern — Smart Analytica          Jan 2026 – Present  │
+│      ✦ Built GenAI-powered analytics platform with low-code orchestration   │
+│      ✦ Integrated Databricks & Apache Hive for real-time AI dashboards      │
+│      ✦ Engineered scalable backend workflows for dynamic data visualization │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  🏢  Software Engineer Intern — Accenture               May 2025 – Jul 2025 │
+│      ✦ Python automation: cut JSON processing errors by 90%+                │
+│      ✦ Deployed hourly data pipeline → AWS S3 with full audit logging       │
+│      ✦ Structured logging for 5+ anomaly categories; near-zero manual work  │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Stats
 
-- 🌐 **Portfolio:** https://apurvwajage.github.io/Portfolio
-- 💼 **LinkedIn:** https://www.linkedin.com/in/apurv-wajage
-- 🧑‍💻 **GitHub:** https://github.com/apurvwajage
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=apurvwajage&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa"/>
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=apurvwajage&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=apurvwajage&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak"/>
+&nbsp;&nbsp;
+<img src="https://leetcard.jacoblin.cool/Apurvv?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=10&width=420&color=a78bfa" alt="LeetCode Stats"/>
+
+<br/>
+
+<!-- Contribution Snake -->
+<img src="https://raw.githubusercontent.com/apurvwajage/apurvwajage/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%"/>
+
+</div>
 
 ---
 
-_“Build systems that scale. Build ideas that last.”_ 🚀
+## 🏆 Achievements
+
+| 🏅 Achievement | 📋 Details |
+|---|---|
+| 🥇 **Smart India Hackathon** | Top 5 finish — **twice** — out of 80+ competing teams |
+| 🎗️ **IOIT MUN Organizer** | Core logistics organizer for 100+ participants |
+| 📐 **JEE Advanced 2022** | Rank **4674** (General EWS) |
+| 📈 **MHT-CET 2022** | **96.49 percentile** |
+| ☁️ **Microsoft Azure** | AZ-900 Certified |
+
+---
+
+## 🎯 Currently Leveling Up
+
+```
+[██████████████░░░░░░]  Advanced ML & Deep Learning
+[████████████░░░░░░░░]  System Design & Architecture
+[██████████░░░░░░░░░░]  AI Interpretability & XAI Research
+[████████████████░░░░]  DSA — LeetCode / Codeforces
+```
+
+---
+
+<div align="center">
+
+### 💬 Let's Build Something Meaningful
+
+> *Whether it's a collab, a role, or just a good technical conversation — I'm always open.*
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apurvwajage)
+[![Email](https://img.shields.io/badge/Drop_a_Mail-a78bfa?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apurvawajage@gmail.com)
+[![Portfolio](https://img.shields.io/badge/See_My_Work-%230f0c29.svg?style=for-the-badge&logo=firefox&logoColor=a78bfa)](https://apurvwajage.github.io/Portfolio)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+</div>
